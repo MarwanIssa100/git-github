@@ -1,5 +1,5 @@
 x = 1
 y = 3
-z = 4
+z = x + y
 
-print (y + x + z) 
+print (z) 
